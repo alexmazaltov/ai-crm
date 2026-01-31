@@ -2,16 +2,16 @@
 
 **AI-native CRM that runs in your IDE.** No SaaS, no dashboards — just talk to your sales data.
 
-![Cursor CRM Demo](https://img.shields.io/badge/Cursor-CRM-blue?style=for-the-badge)
+![AI CRM Demo](https://img.shields.io/badge/Cursor-CRM-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 ---
 
-## Why Cursor CRM?
+## Why AI CRM?
 
-Traditional CRMs are built for managers who want dashboards. **Cursor CRM is built for founders who want to close deals.**
+Traditional CRMs are built for managers who want dashboards. **AI CRM is built for founders who want to close deals.**
 
-| Traditional CRM | Cursor CRM |
+| Traditional CRM | AI CRM |
 |-----------------|------------|
 | Click through 10 screens to log a call | Say "log call with John, he's interested" |
 | Export to CSV to analyze | Ask "which hooks work best for Series A?" |
@@ -54,8 +54,8 @@ Cursor: [updates CRM, sets reminder]
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/anthroos/cursor-crm.git
-cd cursor-crm
+git clone https://github.com/alexmazaltov/ai-crm.git
+cd ai-crm
 ```
 
 ### 2. Open in Cursor
@@ -86,7 +86,7 @@ Ask Cursor:
 ## Project Structure
 
 ```
-cursor-crm/
+ai-crm/
 ├── .cursorrules              ← AI rules (schema, skills, validation)
 ├── sales/
 │   ├── crm/
@@ -239,6 +239,6 @@ MIT — use freely, adapt to your business.
 
 ## Credits
 
-Built by [@anthroos](https://github.com/anthroos) while doing sales for [WeLabelData](https://welabeldata.com).
+Built by [@alexmazaltov](https://github.com/alexmazaltov) while doing sales for [Oleksii](https://oleksii.ch).
 
-Inspired by the "tools for thought" movement and frustration with traditional CRMs.
+Inspired by the "Cursor CRM" movement and frustration with traditional CRMs.
