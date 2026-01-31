@@ -1,4 +1,4 @@
-# Cursor CRM
+# AI CRM
 
 **AI-native CRM that runs in your IDE.** No SaaS, no dashboards — just talk to your sales data.
 
