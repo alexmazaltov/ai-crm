@@ -2,7 +2,7 @@
 
 **AI-native CRM that runs in your IDE.** No SaaS, no dashboards — just talk to your sales data.
 
-![AI CRM Demo](https://img.shields.io/badge/Cursor-CRM-blue?style=for-the-badge)
+![AI CRM Demo](https://img.shields.io/badge/AI-CRM-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 ---
